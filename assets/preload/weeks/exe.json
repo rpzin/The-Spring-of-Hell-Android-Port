@@ -1,0 +1,48 @@
+{
+	"storyName": "Bad Ending ?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"bg",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"poor-girl",
+			"cream",
+			[
+				55,
+				0,
+				75
+			]
+		],
+		[
+			"fly-away",
+			"tails",
+			[
+				20,
+				20,
+				13
+			]
+		],
+		[
+			"demonicke-echidna",
+			"knux",
+			[
+				40,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
